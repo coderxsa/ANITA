@@ -60,7 +60,7 @@ ANITA - Simple Multi Device whatsapp bot.
 3. Now Deploy
    <br>
  <div align="center">
-  <a href="https://heroku.com/deploy?template=https://github.com/ANITAv2">
+  <a href="https://heroku.com/deploy?template=https://github.com/ANITA">
     <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku">
   </a>
 </div>
@@ -74,7 +74,7 @@ ANITA - Simple Multi Device whatsapp bot.
 
 2. Now Deploy
     <br>
-<p align="center"><a href="https://repl.it/github/coderxsa/ANITAv2.git"> <img src="https://img.shields.io/badge/replit%20Deploy-blue?style=for-the-badge&logo=replit" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://repl.it/github/coderxsa/ANITA.git"> <img src="https://img.shields.io/badge/replit%20Deploy-blue?style=for-the-badge&logo=replit" width="220" height="38.45"/></a></p>
 
  
  ## 🤩 Support
